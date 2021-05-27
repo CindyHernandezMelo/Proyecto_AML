@@ -1,0 +1,1100 @@
+﻿Departamento,Municipio,cod_mun,Altura,Clima
+Bolívar,Cartagena,13001, 1 ,Cálido húmedo
+Cauca,Padilla,19513, 1 ,Templado
+Antioquia,Turbo,5837, 2 ,Cálido húmedo
+Córdoba,San Bernardo del Viento,23675, 2 ,Cálido seco
+La Guajira,Dibulla,44090, 2 ,Cálido seco
+Magdalena,Puebloviejo,47570, 2 ,Cálido seco
+Nariño,El Charco,52250, 2 ,Cálido húmedo
+Bolívar,Talaigua Nuevo,13780, 3 ,Cálido seco
+La Guajira,Riohacha,44001, 3 ,Cálido seco
+La Guajira,Manaure,44560, 3 ,Cálido seco
+Magdalena,Pivijay,47551, 3 ,Cálido húmedo
+Nariño,Tumaco,52835, 3 ,Cálido húmedo
+Sucre,Tolú,70820, 3 ,Cálido seco
+Cauca,Guapí,19318, 4 ,Cálido húmedo
+Cauca,Timbiquí,19809, 4 ,Cálido húmedo
+Sucre,Coveñas,70221, 4 ,Cálido seco
+Atlántico,Puerto Colombia,8573, 5 ,Cálido húmedo
+Atlántico,Soledad,8758, 5 ,Cálido húmedo
+Córdoba,Moñitos,23500, 5 ,Cálido seco
+Córdoba,San Antero,23672, 5 ,Cálido seco
+Córdoba,Tuchín,23815, 5 ,Cálido seco
+Chocó,Acandí,27006, 5 ,Cálido húmedo
+Chocó,Medio Baudó,27430, 5 ,Cálido húmedo
+Chocó,Nuquí,27495, 5 ,Cálido húmedo
+Magdalena,Sitionuevo,47745, 5 ,Cálido húmedo
+Magdalena,Salamina,47675, 6 ,Cálido húmedo
+Atlántico,Campo de la Cruz,8137, 7 ,Cálido húmedo
+Córdoba,Chimá,23168, 7 ,Cálido seco
+Córdoba,Lorica,23417, 7 ,Cálido seco
+Chocó,Atrato (Yuto),27050, 7 ,Cálido húmedo
+Magdalena,El Piñon,47258, 7 ,Cálido seco
+Magdalena,Remolino,47605, 7 ,Cálido seco
+Valle del Cauca,Buenaventura,76109, 7 ,Cálido húmedo
+Antioquia,Necoclí,5490, 8 ,Cálido húmedo
+Atlántico,Candelaria,8141, 8 ,Cálido húmedo
+Atlántico,Santa Lucía,8675, 8 ,Cálido húmedo
+Atlántico,Santo Tomás,8685, 8 ,Cálido húmedo
+Atlántico,Suan,8770, 8 ,Cálido húmedo
+Córdoba,San Pelayo,23686, 8 ,Cálido seco
+Chocó,Bagadó,27073, 8 ,Cálido húmedo
+Atlántico,Repelón,8606, 9 ,Cálido húmedo
+Atlántico,Sabanagrande,8634, 9 ,Cálido húmedo
+Chocó,Bahía Solano (Mútis),27075, 9 ,Cálido húmedo
+Antioquia,San Juan de Urabá,5659, 10 ,Cálido húmedo
+Atlántico,Malambo,8433, 10 ,Cálido húmedo
+Atlántico,Manatí,8436, 10 ,Cálido húmedo
+Atlántico,Palmar de Varela,8520, 10 ,Cálido húmedo
+Atlántico,Ponedera,8560, 10 ,Cálido húmedo
+Bolívar,Calamar,13140, 10 ,Cálido húmedo
+Bolívar,Mahates,13433, 10 ,Cálido húmedo
+Bolívar,Soplaviento,13760, 10 ,Cálido húmedo
+Chocó,Bajo Baudó (Pizarro),27077, 10 ,Cálido húmedo
+Magdalena,Fundación,47288, 10 ,Cálido seco
+Nariño,Santa Bárbara (Iscuandé),52696, 10 ,Frío
+Córdoba,Monteria,23001, 11 ,Cálido seco
+Magdalena,Cerro San Antonio,47161, 11 ,Cálido húmedo
+Chocó,Bojayá (Bellavista),27099, 12 ,Cálido húmedo
+Magdalena,Concordia,47205, 12 ,Cálido húmedo
+Magdalena,Pedraza,47541, 12 ,Cálido húmedo
+Córdoba,Ciénaga de Oro,23189, 13 ,Cálido seco
+Chocó,Cantón de San Pablo,27135, 13 ,Cálido húmedo
+Bolívar,María la Baja,13442, 14 ,Cálido seco
+Chocó,Carmen del Darién (CURBARADÓ),27150, 14 ,Cálido húmedo
+Tolima,Fresno,73283, 14 ,Templado
+Córdoba,Cereté,23162, 15 ,Cálido seco
+Chocó,Cértegui,27160, 15 ,Cálido húmedo
+Bolívar,Mompós,13468, 16 ,Cálido húmedo
+Chocó,Condoto,27205, 16 ,Cálido húmedo
+Córdoba,Momil,23464, 17 ,Cálido seco
+Chocó,El Carmen de Atrato,27245, 17 ,Cálido húmedo
+Chocó,Istmina,27361, 18 ,Cálido húmedo
+Chocó,Ríosucio,27615, 18 ,Cálido húmedo
+Magdalena,Santa Marta,47001, 18 ,Cálido seco
+Sucre,Sucre,70771, 18 ,Cálido húmedo
+Bolívar,Magangué,13430, 19 ,Cálido seco
+Chocó,Juradó,27372, 19 ,Cálido húmedo
+Bolívar,Cicuco,13188, 20 ,Cálido seco
+Bolívar,Córdoba,13212, 20 ,Cálido seco
+Bolívar,Santa Rosa,13683, 20 ,Frío
+Bolívar,Zambrano,13894, 20 ,Cálido seco
+Córdoba,Ayapel,23068, 20 ,Cálido húmedo
+Córdoba,Purísima,23586, 20 ,Cálido seco
+Magdalena,Nueva Granada,47460, 20 ,Cálido seco
+Magdalena,Plato,47555, 20 ,Cálido seco
+Magdalena,Tenerife,47798, 20 ,Cálido seco
+Magdalena,Zapayán (PUNTA DE PIEDRAS),47960, 20 ,Cálido húmedo
+Nariño,La Tola,52390, 20 ,Cálido húmedo
+Nariño,Mosquera,52473, 20 ,Cálido húmedo
+Nariño,Olaya Herrera,52490, 20 ,Cálido húmedo
+Bolívar,Altos del Rosario,13030, 21 ,Cálido húmedo
+Chocó,Medio San Juan (ANDAGOYA),27450, 22 ,Cálido húmedo
+Chocó,Unguía,27800, 22 ,Cálido húmedo
+Magdalena,Santa Bárbara de Pinto,47720, 22 ,Cálido seco
+Antioquia,Murindó,5475, 23 ,Cálido húmedo
+Atlántico,Barranquilla,8001, 24 ,Cálido húmedo
+Bolívar,Tiquisio (Puerto Rico),13810, 24 ,Cálido húmedo
+Nariño,Roberto Payán (San José),52621, 24 ,Cálido húmedo
+Antioquia,Vigía del Fuerte,5873, 25 ,Cálido húmedo
+Bolívar,Achí,13006, 25 ,Cálido húmedo
+Bolívar,Barranco de Loba,13074, 25 ,Cálido seco
+Bolívar,Margarita,13440, 25 ,Cálido húmedo
+Bolívar,Morales,13473, 25 ,Cálido seco
+Bolívar,Pinillos,13549, 25 ,Cálido seco
+Bolívar,San Fernando,13650, 25 ,Cálido seco
+Córdoba,San Carlos,23678, 25 ,Cálido seco
+Magdalena,Ciénaga,47189, 25 ,Cálido seco
+Magdalena,El Banco,47245, 25 ,Cálido seco
+Magdalena,Guamal,47318, 25 ,Cálido seco
+Magdalena,Pijiño,47545, 25 ,Cálido seco
+Magdalena,San Sebastián de Buenavista,47692, 25 ,Cálido seco
+Magdalena,San Zenón,47703, 25 ,Cálido seco
+Magdalena,Santa Ana,47707, 25 ,Cálido seco
+Sucre,Caimito,70124, 25 ,Cálido seco
+Sucre,Majagual,70429, 25 ,Cálido húmedo
+Sucre,San Benito Abad,70678, 25 ,Cálido seco
+Sucre,San Marcos,70708, 25 ,Cálido seco
+Antioquia,Carepa,5147, 28 ,Cálido húmedo
+Bolívar,Hatillo de Loba,13300, 28 ,Cálido húmedo
+Bolívar,Arroyohondo,13062, 29 ,Cálido húmedo
+Bolívar,El Peñon,13268, 29 ,Cálido húmedo
+Antioquia,Nechí,5495, 30 ,Cálido húmedo
+Antioquia,Yondó (Casabe),5893, 30 ,Cálido húmedo
+Bolívar,San Martín de Loba,13667, 30 ,Cálido húmedo
+Córdoba,Puerto Escondido,23574, 30 ,Cálido seco
+Magdalena,Zona Bananera (PRADO - SEVILLA),47980, 30 ,Cálido seco
+Sucre,San Onofre,70713, 30 ,Cálido seco
+Atlántico,Luruaco,8421, 31 ,Cálido húmedo
+Antioquia,Apartadó,5045, 32 ,Cálido húmedo
+Chocó,Río Quito,27600, 33 ,Cálido húmedo
+Antioquia,Chigorodó,5172, 34 ,Cálido húmedo
+Bolívar,Santa Catalina,13673, 34 ,Cálido húmedo
+Cesar,El Paso,20250, 36 ,Cálido seco
+Nariño,Barbacoas,52079, 36 ,Cálido húmedo
+Bolívar,Regidor,13580, 38 ,Templado
+Bolívar,Arenal,13042, 39 ,Cálido húmedo
+Córdoba,Los Córdobas,23419, 40 ,Cálido seco
+La Guajira,Barrancas,44078, 40 ,Cálido seco
+Magdalena,Aracataca,47053, 40 ,Cálido seco
+Magdalena,El Retén,47268, 40 ,Cálido húmedo
+Sucre,Palmito,70523, 40 ,Cálido seco
+Chocó,Quibdó,27001, 43 ,Cálido húmedo
+Córdoba,Montelíbano,23466, 44 ,Cálido húmedo
+Bolívar,Montecristo,13458, 45 ,Cálido húmedo
+Córdoba,Valencia,23855, 49 ,Cálido seco
+Antioquia,Arboletes,5051, 50 ,Cálido húmedo
+Antioquia,Caucasia,5154, 50 ,Cálido húmedo
+Atlántico,Juan de Acosta,8372, 50 ,Cálido húmedo
+Bolívar,Río Viejo,13600, 50 ,Cálido húmedo
+Bolívar,Simití,13744, 50 ,Cálido húmedo
+Cesar,Chiriguaná,20178, 50 ,Cálido seco
+Cesar,Gamarra,20295, 50 ,Cálido húmedo
+Cesar,La Gloria,20383, 50 ,Cálido húmedo
+Cesar,San Alberto,20710, 50 ,Templado
+Cesar,Tamalameque,20787, 50 ,Cálido húmedo
+Córdoba,Canalete,23090, 50 ,Cálido seco
+Córdoba,Cotorra,23300, 50 ,Cálido seco
+Córdoba,La Apartada y La Frontera,23350, 50 ,Cálido húmedo
+Chocó,Alto Baudó (Pie de Pato),27025, 50 ,Cálido húmedo
+Chocó,Sipí,27745, 50 ,Cálido húmedo
+La Guajira,Hatonuevo,44378, 50 ,Cálido seco
+Córdoba,Tierralta,23807, 51 ,Cálido húmedo
+Vichada,Puerto Carreño,99001, 51 ,Cálido húmedo
+Antioquia,Zaragoza,5895, 52 ,Cálido húmedo
+La Guajira,Maicao,44430, 52 ,Cálido seco
+Chocó,Medio Atrato,27425, 54 ,Cálido húmedo
+Bolívar,Cantagallo,13160, 59 ,Cálido húmedo
+La Guajira,Fonseca,44279, 60 ,Cálido seco
+Sucre,Tolú Viejo,70823, 60 ,Cálido seco
+Cesar,Curumaní,20228, 62 ,Templado
+Bolívar,Arjona,13052, 63 ,Cálido húmedo
+Bolívar,Clemencia,13222, 64 ,Cálido húmedo
+La Guajira,Distracción,44098, 65 ,Cálido seco
+Nariño,Francisco Pizarro,52520, 65 ,Cálido húmedo
+Sucre,La Unión,70400, 65 ,Cálido seco
+Córdoba,Puerto Libertador,23580, 66 ,Cálido húmedo
+Cesar,Pelaya,20550, 68 ,Cálido húmedo
+Chocó,Lloró,27413, 69 ,Cálido húmedo
+Córdoba,Sahagún,23660, 71 ,Cálido seco
+La Guajira,Uribia,44847, 71 ,Cálido seco
+Bolívar,San Pablo,13670, 75 ,Cálido húmedo
+Córdoba,Buenavista,23079, 75 ,Cálido húmedo
+La Guajira,Albania,44035, 75 ,Cálido seco
+Magdalena,Sabanas de San Angel (SAN ANGEL),47660, 75 ,Cálido seco
+Norte de Santander,Tibú,54810, 75 ,Cálido húmedo
+Santander,Puerto Wilches,68575, 75 ,Cálido húmedo
+Santander,Barrancabermeja,68081, 76 ,Cálido húmedo
+Bolívar,El Guamo,13248, 77 ,Cálido seco
+Cesar,Pailitas,20517, 77 ,Templado
+Atlántico,Polonuevo,8558, 80 ,Cálido húmedo
+Sucre,Galeras (Nueva Granada),70235, 80 ,Cálido seco
+Atlántico,Galapa,8296, 83 ,Cálido húmedo
+Córdoba,San José de Uré,23682, 84 ,Cálido húmedo
+Cesar,Astrea,20032, 85 ,Cálido húmedo
+Córdoba,Planeta Rica,23555, 87 ,Cálido húmedo
+Sucre,Buenavista,70110, 87 ,Cálido seco
+Bolívar,San Cristobal,13620, 89 ,Cálido seco
+Chocó,Tadó,27787, 90 ,Cálido húmedo
+Atlántico,Usiacuri,8849, 95 ,Cálido húmedo
+Amazonas,Leticia,91001, 96 ,Cálido húmedo
+Guainía,Inírida,94001, 98 ,Cálido húmedo
+Atlántico,Sabanalarga,8638, 99 ,Cálido húmedo
+Risaralda,La Virginia,66400, 99 ,Cálido húmedo
+Antioquia,San Andrés de Cuerquía,5647, 100 ,Cálido húmedo
+Atlántico,Baranoa,8078, 100 ,Cálido húmedo
+Bolívar,Turbaco,13836, 100 ,Cálido seco
+Bolívar,Villanueva,13873, 100 ,Cálido húmedo
+Cauca,López (Micay),19418, 100 ,Cálido húmedo
+Córdoba,San Andrés Sotavento,23670, 100 ,Cálido seco
+Chocó,Novita,27491, 100 ,Cálido húmedo
+Magdalena,Algarrobo,47030, 100 ,Cálido seco
+Norte de Santander,Puerto Santander,54553, 100 ,Cálido húmedo
+Santander,Puerto Parra,68573, 100 ,Cálido húmedo
+Sucre,Guaranda,70265, 100 ,Cálido seco
+Arauca,Cravo Norte,81220, 100 ,Cálido húmedo
+Vaupés,Taraira,97666, 100 ,Cálido húmedo
+Vichada,La Primavera,99524, 100 ,Cálido húmedo
+Córdoba,Chinú,23182, 103 ,Cálido seco
+Chocó,Río Iró,27580, 103 ,Cálido húmedo
+Cauca,Piamonte,19533, 108 ,Cálido húmedo
+Córdoba,Pueblo Nuevo,23570, 108 ,Cálido seco
+Santander,Sabana de Torres,68655, 110 ,Cálido seco
+Cesar,San Martín,20770, 112 ,Templado
+Vichada,Cumaribo,99773, 114 ,Cálido húmedo
+Cesar,Bosconia,20060, 117 ,Cálido seco
+Santander,San Gíl,68679, 117 ,Cálido seco
+Chocó,Unión Panamericana (ÁNIMAS),27810, 119 ,Cálido húmedo
+Bolívar,Turbaná,13838, 120 ,Cálido seco
+Cesar,Chimichagua,20175, 120 ,Templado
+Sucre,San Pedro,70717, 120 ,Cálido seco
+Amazonas,Puerto Nariño,91540, 120 ,Cálido húmedo
+Antioquia,Puerto Berrío,5579, 125 ,Cálido húmedo
+Antioquia,Tarazá,5790, 125 ,Cálido húmedo
+Arauca,Arauca,81001, 125 ,Cálido húmedo
+Arauca,Puerto Rondón,81591, 125 ,Cálido húmedo
+Magdalena,Chivolo,47170, 128 ,Cálido húmedo
+Cesar,Agustín Codazzi,20013, 131 ,Cálido húmedo
+Sucre,El Roble,70233, 135 ,Cálido seco
+Sucre,San Juan de Betulia,70702, 135 ,Cálido seco
+Sucre,Sincé,70742, 137 ,Cálido seco
+Antioquia,Puerto Nare,5585, 140 ,Cálido húmedo
+Bolívar,Norosí,13490, 142 ,Cálido húmedo
+Sucre,Corozal,70215, 142 ,Cálido seco
+Casanare,Orocué,85230, 143 ,Cálido húmedo
+Boyacá,Puerto Boyacá,15572, 145 ,Cálido húmedo
+Cesar,Valledupar,20001, 148 ,Cálido seco
+Meta,Puerto Gaitán,50568, 149 ,Cálido húmedo
+Antioquia,Cáceres,5120, 150 ,Cálido húmedo
+Antioquia,El Bagre,5250, 150 ,Cálido húmedo
+Antioquia,Puerto Triunfo,5591, 150 ,Cálido húmedo
+Cesar,Becerríl,20045, 150 ,Templado
+Cesar,La Jagua de Ibirico,20400, 150 ,Templado
+Sucre,Colosó (Ricaurte),70204, 150 ,Cálido seco
+Vichada,Santa Rosalía,99624, 150 ,Cálido húmedo
+Bolívar,San Juan de Nepomuceno,13657, 156 ,Cálido seco
+Bolívar,El Carmen de Bolívar,13244, 157 ,Cálido seco
+Cesar,La Paz (Robles),20621, 157 ,Cálido seco
+Bolívar,San Estanislao,13647, 160 ,Cálido seco
+Norte de Santander,El Tarra,54250, 160 ,Templado
+Sucre,Morroa,70473, 160 ,Cálido seco
+Sucre,Sampués,70670, 160 ,Cálido seco
+Guaviare,Miraflores,95200, 160 ,Cálido húmedo
+Cesar,Aguachica,20011, 162 ,Templado
+Arauca,Arauquita,81065, 165 ,Cálido húmedo
+Magdalena,Ariguaní (El Difícil),47058, 175 ,Cálido seco
+Sucre,Los Palmitos,70418, 175 ,Cálido seco
+Guaviare,San José del Guaviare,95001, 175 ,Cálido húmedo
+Caldas,La Dorada,17380, 176 ,Cálido húmedo
+Cundinamarca,Puerto Salgar,25572, 177 ,Cálido húmedo
+Meta,Puerto López,50573, 178 ,Cálido húmedo
+Cesar,El Copey,20238, 180 ,Cálido húmedo
+Cesar,San Diego,20750, 180 ,Cálido seco
+Risaralda,Guática,66318, 182 ,Cálido húmedo
+Casanare,Trinidad,85430, 187 ,Cálido húmedo
+Guaviare,El Retorno,95025, 190 ,Cálido húmedo
+Sucre,Sincelejo,70001, 197 ,Cálido seco
+Caquetá,Solano,18756, 200 ,Cálido húmedo
+Meta,Mapiripan,50325, 200 ,Cálido húmedo
+Meta,Puerto Concordia,50450, 200 ,Cálido húmedo
+Nariño,El Peñol,52254, 200 ,Templado
+Santander,Cimitarra,68190, 200 ,Cálido húmedo
+Casanare,Maní,85139, 200 ,Cálido húmedo
+Casanare,San Luís de Palenque,85325, 200 ,Cálido húmedo
+Putumayo,Puerto Leguízamo,86573, 200 ,Cálido húmedo
+Vaupés,Mitú,97001, 200 ,Cálido húmedo
+Vaupés,Carurú,97161, 200 ,Cálido húmedo
+Atlántico,Tubará,8832, 203 ,Cálido húmedo
+Caquetá,Milán,18460, 210 ,Cálido húmedo
+Meta,Puerto Rico,50590, 210 ,Cálido húmedo
+Putumayo,Puerto Guzmán,86571, 218 ,Cálido húmedo
+Norte de Santander,El Zulia,54261, 220 ,Cálido seco
+Santander,Málaga,68432, 220 ,Templado
+Guaviare,Calamar,95015, 220 ,Cálido húmedo
+Caquetá,Curillo,18205, 225 ,Cálido húmedo
+Cundinamarca,Beltrán,25086, 231 ,Templado
+Santander,El Playón,68255, 232 ,Frío
+Meta,La Macarena,50350, 233 ,Cálido húmedo
+Meta,Cabuyaro,50124, 235 ,Cálido húmedo
+Norte de Santander,San Cayetano,54673, 235 ,Cálido seco
+Bolívar,San Jacinto,13654, 237 ,Cálido seco
+Bolívar,San Jacinto del Cauca,13655, 237 ,Cálido húmedo
+Antioquia,Mutatá,5480, 238 ,Cálido húmedo
+La Guajira,El Molino,44110, 240 ,Cálido seco
+Tolima,Ambalema,73030, 241 ,Cálido húmedo
+Caquetá,La Montañita,18410, 243 ,Cálido húmedo
+Antioquia,San Pedro de Urabá,5665, 247 ,Cálido húmedo
+Caquetá,Puerto Rico,18592, 249 ,Cálido húmedo
+La Guajira,San Juan del Cesar,44650, 250 ,Cálido seco
+La Guajira,Villanueva,44874, 250 ,Cálido seco
+Meta,Puerto Lleras,50577, 250 ,Cálido húmedo
+Norte de Santander,Lourdes,54418, 250 ,Templado
+Casanare,Hato Corozal,85125, 250 ,Cálido húmedo
+Casanare,Pore,85263, 250 ,Cálido húmedo
+Putumayo,Puerto Asís,86568, 250 ,Cálido húmedo
+Cundinamarca,Guataquí,25324, 255 ,Cálido seco
+Tolima,Honda,73349, 255 ,Cálido húmedo
+Caquetá,Morelia,18479, 258 ,Cálido húmedo
+Cundinamarca,Nariño,25483, 263 ,Templado
+Meta,Barranca de Upía,50110, 264 ,Cálido húmedo
+Sucre,Ovejas,70508, 265 ,Cálido seco
+Cundinamarca,Girardot,25307, 275 ,Cálido seco
+Casanare,Paz de Ariporo,85250, 275 ,Cálido húmedo
+Caquetá,San Vicente del Caguán,18753, 280 ,Templado
+La Guajira,Urumita,44855, 280 ,Cálido seco
+Sucre,Chalán,70230, 280 ,Cálido seco
+Cundinamarca,Ricaurte,25612, 284 ,Cálido seco
+Tolima,Flandes,73275, 285 ,Cálido seco
+Cauca,Suárez,19780, 290 ,Templado
+Tolima,Suárez,73770, 290 ,Templado
+Casanare,Aguazul,85010, 290 ,Cálido húmedo
+Putumayo,Puerto Caicedo,86569, 290 ,Cálido húmedo
+Putumayo,San Miguel,86757, 290 ,Cálido húmedo
+Tolima,Murillo,73461, 293 ,Cálido seco
+Norte de Santander,Cúcuta,54001, 297 ,Cálido seco
+Caquetá,Cartagena del Chairá,18150, 300 ,Cálido húmedo
+Cundinamarca,Paratebueno,25530, 300 ,Cálido húmedo
+La Guajira,La Jagua del Pilar,44420, 300 ,Cálido seco
+Norte de Santander,Sardinata,54720, 300 ,Cálido húmedo
+Arauca,Fortúl,81300, 300 ,Cálido húmedo
+Tolima,Armero (Guayabal),73055, 310 ,Cálido húmedo
+Tolima,Saldaña,73671, 310 ,Templado
+Putumayo,Orito,86320, 310 ,Cálido húmedo
+Caquetá,Belén de los Andaquíes,18094, 312 ,Cálido húmedo
+Atlántico,Piojo,8549, 314 ,Cálido húmedo
+Putumayo,Valle del Guamuez,86865, 316 ,Cálido húmedo
+Tolima,Guamo,73319, 321 ,Cálido húmedo
+Tolima,Prado,73563, 321 ,Cálido húmedo
+Tolima,Espinal,73268, 323 ,Cálido seco
+Tolima,Melgar,73449, 323 ,Cálido seco
+Tolima,Natagaima,73483, 326 ,Cálido seco
+Tolima,Carmen de Apicalá,73148, 328 ,Templado
+Tolima,Purificación,73585, 329 ,Cálido húmedo
+Cundinamarca,Nilo,25488, 336 ,Templado
+Tolima,Coello,73200, 339 ,Cálido seco
+Arauca,Tame,81794, 340 ,Templado
+Caquetá,El Paujil,18256, 346 ,Cálido húmedo
+Tolima,Venadillo,73861, 348 ,Cálido seco
+Caquetá,Solita,18785, 350 ,Cálido húmedo
+Caquetá,Valparaiso,18860, 350 ,Cálido húmedo
+Meta,Castilla la Nueva,50150, 350 ,Cálido húmedo
+Meta,San Carlos de Guaroa,50680, 350 ,Cálido húmedo
+Casanare,Yopal,85001, 350 ,Cálido húmedo
+Casanare,Villanueva,85440, 350 ,Cálido húmedo
+Boyacá,Cubará,15223, 357 ,Cálido húmedo
+Cundinamarca,Jerusalén,25368, 357 ,Frío
+Meta,Fuente de Oro,50287, 359 ,Cálido húmedo
+San Andrés,Providencia,88001, 360 ,Cálido húmedo
+Tolima,Lérida,73408, 366 ,Cálido seco
+Caquetá,El Doncello,18247, 373 ,Cálido húmedo
+Casanare,Nunchía,85225, 380 ,Cálido húmedo
+Huila,Villavieja,41872, 384 ,Cálido seco
+Huila,Aipe,41016, 390 ,Cálido seco
+Tolima,Coyaima,73217, 392 ,Frío
+Boyacá,San Luís de Gaceno,15667, 400 ,Cálido húmedo
+Cundinamarca,Agua de Dios,25001, 400 ,Cálido seco
+Cundinamarca,Tocaima,25815, 400 ,Cálido seco
+Meta,El Calvario,50245, 400 ,Cálido húmedo
+Putumayo,Villagarzón,86885, 400 ,Cálido húmedo
+Tolima,Ortega,73504, 402 ,Cálido húmedo
+Tolima,Piedras,73547, 403 ,Cálido seco
+Meta,Granada,50313, 410 ,Templado
+Norte de Santander,Los Patios,54405, 410 ,Cálido seco
+Norte de Santander,Santiago,54680, 411 ,Cálido seco
+Meta,San Martín,50689, 419 ,Cálido húmedo
+Cundinamarca,Apulo,25599, 420 ,Cálido seco
+Santander,Jordán,68370, 425 ,Cálido seco
+Antioquia,Olaya,5501, 430 ,Cálido húmedo
+Tolima,Alvarado,73026, 439 ,Cálido seco
+Norte de Santander,Villa del Rosario,54874, 440 ,Cálido seco
+Huila,Neiva,41001, 442 ,Cálido seco
+Tolima,Ataco,73067, 446 ,Cálido seco
+Antioquia,Dabeiba,5234, 450 ,Cálido húmedo
+Meta,Villavicencio,50001, 450 ,Cálido húmedo
+Meta,Vista Hermosa,50711, 450 ,Cálido húmedo
+Casanare,Sabanalarga,85300, 450 ,Cálido húmedo
+Casanare,Tauramena,85410, 450 ,Cálido húmedo
+Meta,Cumaral,50226, 452 ,Cálido húmedo
+Tolima,Cunday,73226, 475 ,Templado
+Caquetá,Albania,18029, 480 ,Cálido húmedo
+Meta,El Castillo,50251, 480 ,Cálido húmedo
+Tolima,Mariquita,73443, 495 ,Cálido húmedo
+Cundinamarca,Útica,25851, 497 ,Templado
+Meta,Acacías,50006, 498 ,Templado
+Santander,El Carmen,68235, 500 ,Cálido seco
+Casanare,Monterrey,85162, 500 ,Cálido húmedo
+Tolima,San Luis,73678, 506 ,Cálido seco
+Meta,San Juan de Arama,50683, 510 ,Cálido húmedo
+Meta,Guamal,50318, 518 ,Cálido húmedo
+Huila,Campoalegre,41132, 525 ,Cálido seco
+Meta,Cubarral,50223, 535 ,Cálido húmedo
+Caquetá,San José del Fragua,18610, 540 ,Cálido húmedo
+Antioquia,Santa Fé de Antioquia,5042, 550 ,Cálido húmedo
+Huila,Palermo,41524, 550 ,Cálido seco
+Meta,El Dorado,50270, 550 ,Cálido húmedo
+Putumayo,Mocoa,86001, 550 ,Cálido húmedo
+Huila,Yaguará,41885, 560 ,Cálido seco
+Cundinamarca,Viotá,25878, 567 ,Templado
+Meta,Restrepo,50606, 570 ,Cálido húmedo
+Huila,Tello,41799, 575 ,Cálido seco
+Cundinamarca,Medina,25438, 576 ,Templado
+Santander,Rio Negro,68615, 590 ,Cálido seco
+Huila,Hobo,41349, 596 ,Cálido seco
+Tolima,Valle de San Juan,73854, 600 ,Cálido seco
+Antioquia,Anzá,5044, 620 ,Cálido húmedo
+Bolívar,Santa Rosa del Sur,13688, 620 ,Cálido húmedo
+Antioquia,Segovia,5736, 650 ,Cálido húmedo
+Antioquia,Caracolí,5142, 651 ,Cálido húmedo
+Meta,Uribe,50370, 653 ,Cálido húmedo
+Antioquia,La Pintada,5390, 660 ,Cálido húmedo
+Santander,Cepita,68160, 660 ,Cálido seco
+Boyacá,San Pablo de Borbur,15681, 678 ,Cálido húmedo
+Antioquia,Remedios,5604, 680 ,Cálido húmedo
+Santander,San Vicente del Chucurí,68689, 693 ,Cálido húmedo
+Cundinamarca,Anapoima,25035, 700 ,Templado
+Santander,Girón,68307, 701 ,Cálido seco
+Antioquia,Sopetrán,5761, 725 ,Cálido húmedo
+Huila,Rivera,41615, 729 ,Cálido seco
+Huila,Baraya,41078, 730 ,Cálido seco
+Huila,Tesalia,41797, 733 ,Cálido seco
+Antioquia,San Jerónimo,5656, 750 ,Cálido húmedo
+Caldas,La Victoria,17867, 750 ,Cálido húmedo
+Norte de Santander,El Carmen,54245, 761 ,Templado
+Cesar,Manaure Balcón del Cesar,20443, 780 ,Templado
+Boyacá,Pajarito,15518, 793 ,Cálido húmedo
+Cundinamarca,Villeta,25875, 799 ,Templado
+Santander,Florián,68271, 800 ,Templado
+Casanare,Recetor,85279, 800 ,Cálido húmedo
+Huila,Gigante,41306, 808 ,Cálido seco
+Norte de Santander,Salazar,54660, 815 ,Templado
+Antioquia,Liborina,5411, 820 ,Cálido húmedo
+Huila,Tarqui,41791, 826 ,Cálido seco
+Meta,Mesetas,50330, 827 ,Cálido húmedo
+Huila,Garzón,41298, 828 ,Frío
+Valle del Cauca,Dagua,76233, 828 ,Cálido seco
+Huila,Agrado,41013, 838 ,Cálido seco
+Meta,Lejanías,50400, 840 ,Cálido húmedo
+Boyacá,Muzo,15480, 843 ,Cálido húmedo
+Huila,Colombia,41206, 850 ,Cálido seco
+Tolima,Chaparral,73168, 854 ,Frío
+Tolima,Villarrica,73873, 860 ,Templado
+Huila,Paicol,41518, 866 ,Cálido seco
+Cauca,Guachené,19300, 873 ,Cálido seco
+Antioquia,Vegachí,5858, 874 ,Cálido húmedo
+Santander,Palmar,68522, 875 ,Cálido seco
+Santander,Floridablanca,68276, 878 ,Cálido seco
+Risaralda,Apía,66045, 899 ,Cálido húmedo
+Boyacá,Santa María,15690, 900 ,Cálido húmedo
+Tolima,Rioblanco,73616, 900 ,Frío
+Tolima,Rovira,73624, 900 ,Templado
+Valle del Cauca,Guacarí,76318, 900 ,Templado
+Cauca,Patía (El Bordo),19532, 910 ,Cálido seco
+Huila,Teruel,41801, 910 ,Cálido seco
+Valle del Cauca,La Victoria,76403, 915 ,Templado
+Valle del Cauca,Zarzal,76895, 916 ,Templado
+Valle del Cauca,Cartago,76147, 917 ,Templado
+Huila,Pital,41548, 918 ,Cálido seco
+Santander,Galán,68296, 919 ,Cálido seco
+Valle del Cauca,Calí,76001, 926 ,Cálido seco
+Huila,Guadalupe,41319, 929 ,Cálido seco
+Valle del Cauca,Obando,76497, 932 ,Templado
+Norte de Santander,Arboledas,54051, 946 ,Templado
+Antioquia,Maceo,5425, 950 ,Cálido húmedo
+Boyacá,Coper,15212, 950 ,Cálido húmedo
+Norte de Santander,Durania,54239, 950 ,Templado
+Santander,Bucaramanga,68001, 950 ,Cálido seco
+Valle del Cauca,Bugalagrande,76113, 950 ,Templado
+Valle del Cauca,Toro,76823, 950 ,Templado
+Cundinamarca,Paime,25518, 960 ,Templado
+Valle del Cauca,Roldanillo,76622, 966 ,Templado
+Cauca,Puerto Tejada,19573, 968 ,Cálido seco
+Valle del Cauca,Buga,76111, 969 ,Templado
+Valle del Cauca,Riofrío,76616, 969 ,Templado
+Valle del Cauca,Yotoco,76890, 972 ,Templado
+Valle del Cauca,Candelaria,76130, 975 ,Templado
+Valle del Cauca,Jamundí,76364, 975 ,Cálido seco
+Valle del Cauca,La Unión,76400, 975 ,Templado
+Valle del Cauca,Bolívar,76100, 978 ,Templado
+Boyacá,Paya,15533, 980 ,Cálido húmedo
+Santander,Cabrera,68121, 980 ,Cálido seco
+Valle del Cauca,San Pedro,76670, 980 ,Templado
+Tolima,Falan,73270, 983 ,Cálido húmedo
+Valle del Cauca,El Cerrito,76248, 987 ,Templado
+Valle del Cauca,Vijes,76869, 987 ,Templado
+Cundinamarca,El Colegio,25245, 990 ,Templado
+Cundinamarca,Guaduas,25320, 992 ,Cálido húmedo
+Valle del Cauca,Andalucía,76036, 995 ,Templado
+Valle del Cauca,Yumbo,76892, 995 ,Templado
+Caldas,Viterbo,17877, 998 ,Cálido húmedo
+Antioquia,Hispania,5353," 1,000 ",Templado
+Antioquia,San Rafael,5667," 1,000 ",Templado
+Huila,Suaza,41770," 1,000 ",Templado
+Nariño,Policarpa,52540," 1,000 ",Templado
+Valle del Cauca,Palmira,76520," 1,001 ",Templado
+Santander,Pie de Cuesta,68547," 1,005 ",Templado
+Antioquia,San Carlos,5649," 1,010 ",Templado
+Norte de Santander,Convención,54206," 1,020 ",Templado
+Cundinamarca,Pandi,25524," 1,024 ",Templado
+Norte de Santander,Gramalote,54313," 1,025 ",Templado
+Cauca,Miranda,19455," 1,032 ",Templado
+Tolima,Icononzo,73352," 1,034 ",Templado
+Valle del Cauca,Ansermanuevo,76041," 1,035 ",Templado
+Antioquia,Cisneros,5190," 1,038 ",Templado
+Valle del Cauca,Florida,76275," 1,038 ",Templado
+Boyacá,Otanche,15507," 1,040 ",Templado
+Antioquia,San Luís,5660," 1,050 ",Templado
+Huila,La Plata,41396," 1,050 ",Templado
+Norte de Santander,Hacarí,54344," 1,050 ",Templado
+Norte de Santander,Bochalema,54099," 1,051 ",Templado
+Cauca,Corinto,19212," 1,052 ",Templado
+Santander,Lebrija,68406," 1,055 ",Templado
+Santander,Santa Helena del Opón,68720," 1,060 ",Templado
+Valle del Cauca,Pradera,76563," 1,070 ",Templado
+Cauca,Santander de Quilichao,19698," 1,071 ",Templado
+Valle del Cauca,Tulúa,76834," 1,073 ",Templado
+Cauca,Buenos Aires,19110," 1,075 ",Templado
+Huila,Altamira,41026," 1,079 ",Templado
+Santander,Simacota,68745," 1,080 ",Templado
+Cauca,Caloto,19142," 1,085 ",Templado
+Boyacá,Ciénaga,15189," 1,090 ",Templado
+Santander,Capitanejo,68147," 1,090 ",Templado
+Boyacá,Labranzagrande,15377," 1,100 ",Templado
+Cauca,Villa Rica,19845," 1,100 ",Templado
+Chocó,San José del Palmar,27660," 1,100 ",Templado
+Huila,Algeciras,41020," 1,100 ",Templado
+Huila,Timaná,41807," 1,100 ",Templado
+Santander,Landázuri,68385," 1,100 ",Templado
+Valle del Cauca,Caicedonia,76122," 1,100 ",Templado
+Valle del Cauca,Ginebra,76306," 1,100 ",Templado
+Arauca,Saravena,81736," 1,100 ",Templado
+Casanare,Chámeza,85015," 1,100 ",Templado
+Antioquia,Valdivia,5854," 1,102 ",Templado
+Cundinamarca,Nocaima,25491," 1,105 ",Templado
+Cundinamarca,Quebradanegra,25592," 1,105 ",Templado
+Boyacá,Pauna,15531," 1,121 ",Templado
+Huila,Íquira,41357," 1,123 ",Templado
+Antioquia,Ebéjico,5240," 1,125 ",Templado
+Norte de Santander,Bucarasica,54109," 1,125 ",Templado
+Santander,Pinchote,68549," 1,133 ",Templado
+Caldas,Norcasia,17495," 1,135 ",Templado
+Cundinamarca,Quipile,25596," 1,143 ",Templado
+Cesar,Río de oro,20614," 1,150 ",Templado
+Casanare,Támara,85400," 1,157 ",Templado
+Norte de Santander,Teorama,54800," 1,158 ",Templado
+Cauca,Mercaderes,19450," 1,167 ",Templado
+Tolima,Ibagué,73001," 1,168 ",Templado
+Santander,Palmas del Socorro,68524," 1,170 ",Templado
+Norte de Santander,Chinácota,54172," 1,175 ",Templado
+Santander,Chima,68176," 1,177 ",Templado
+Nariño,Ricaurte,52612," 1,181 ",Templado
+Caldas,Supía,17777," 1,183 ",Templado
+Cundinamarca,Nimaima,25489," 1,185 ",Templado
+Quindio,La Tebaida,63401," 1,190 ",Templado
+Cundinamarca,Sasaima,25718," 1,191 ",Templado
+Cundinamarca,La Mesa,25386," 1,198 ",Templado
+Antioquia,Briceño,5107," 1,199 ",Templado
+Antioquia,Peque,5543," 1,200 ",Templado
+Antioquia,Yalí,5885," 1,200 ",Templado
+Boyacá,Quipama,15580," 1,200 ",Templado
+Cesar,Pueblo Bello,20570," 1,200 ",Templado
+Cundinamarca,Chaguaní,25168," 1,200 ",Templado
+Huila,Palestina,41530," 1,200 ",Templado
+Santander,San Benito,68673," 1,200 ",Templado
+Norte de Santander,Ocaña,54498," 1,202 ",Templado
+Cauca,Sucre,19785," 1,208 ",Templado
+Antioquia,Bolívar,5101," 1,230 ",Templado
+Cundinamarca,La Peña,25398," 1,230 ",Templado
+Cundinamarca,La Vega,25402," 1,230 ",Templado
+Santander,Socorro,68755," 1,230 ",Templado
+Cesar,Gonzalez,20310," 1,240 ",Templado
+Antioquia,Sabanalarga,5628," 1,250 ",Templado
+Boyacá,Maripí,15442," 1,250 ",Templado
+Boyacá,Tunungua,15832," 1,250 ",Templado
+Cauca,Argelia,19050," 1,250 ",Templado
+Huila,Oporapa,41503," 1,250 ",Templado
+Santander,Ocamonte,68498," 1,250 ",Templado
+Santander,Valle de San José,68855," 1,250 ",Templado
+Santander,Villanueva,68872," 1,250 ",Templado
+Casanare,Sácama,85315," 1,250 ",Templado
+Huila,Pitalito,41551," 1,259 ",Templado
+Valle del Cauca,Trujillo,76828," 1,260 ",Templado
+Antioquia,Salgar,5642," 1,270 ",Templado
+Cundinamarca,Guayabetal,25335," 1,270 ",Templado
+Cundinamarca,Pulí,25580," 1,270 ",Templado
+Tolima,Anzoátegui,73043," 1,270 ",Templado
+Cundinamarca,Caparrapí,25148," 1,271 ",Templado
+Norte de Santander,Cucutilla,54223," 1,277 ",Templado
+Antioquia,Cocorná,5197," 1,286 ",Templado
+Valle del Cauca,Alcalá,76020," 1,290 ",Templado
+Santander,Charalá,68167," 1,291 ",Templado
+Quindio,Montenegro,63470," 1,294 ",Templado
+Antioquia,Barbosa,5079," 1,300 ",Templado
+Antioquia,Cañasgordas,5138," 1,300 ",Templado
+Boyacá,Campohermoso,15135," 1,300 ",Templado
+Santander,Hato,68344," 1,300 ",Templado
+Cundinamarca,San Juan de Río Seco,25662," 1,303 ",Templado
+Caldas,Marmato,17442," 1,310 ",Templado
+Cundinamarca,El Peñón,25258," 1,310 ",Templado
+Santander,Los Santos,68418," 1,310 ",Templado
+Huila,Saladoblanco,41660," 1,316 ",Templado
+Antioquia,Frontino,5284," 1,317 ",Templado
+Cundinamarca,Topaipí,25823," 1,323 ",Templado
+Antioquia,Tarso,5792," 1,335 ",Templado
+Antioquia,Venecia,5861," 1,335 ",Templado
+Santander,Barichara,68079," 1,336 ",Templado
+Boyacá,Briceño,15106," 1,340 ",Templado
+Huila,Acevedo,41006," 1,348 ",Templado
+Santander,Guapota,68322," 1,350 ",Templado
+Valle del Cauca,Ulloa,76845," 1,350 ",Templado
+Antioquia,Valparaiso,5856," 1,358 ",Templado
+Nariño,Ancuya,52036," 1,358 ",Templado
+Antioquia,Andes,5034," 1,360 ",Templado
+Tolima,Alpujarra,73024," 1,361 ",Templado
+Antioquia,Támesis,5789," 1,368 ",Templado
+Caldas,Chinchiná,17174," 1,378 ",Templado
+Risaralda,La Celia,66383," 1,380 ",Templado
+Cundinamarca,Tena,25797," 1,384 ",Templado
+Tolima,Palocabildo,73520," 1,387 ",Templado
+Antioquia,Amagá,5030," 1,392 ",Templado
+Santander,Guadalupe,68320," 1,395 ",Templado
+Norte de Santander,Ábrego,54003," 1,398 ",Templado
+Boyacá,La Victoria,15401," 1,400 ",Templado
+Valle del Cauca,Restrepo,76606," 1,400 ",Templado
+Antioquia,Medellín,5001," 1,405 ",Templado
+Santander,Páramo,68533," 1,410 ",Templado
+Risaralda,Pereira,66001," 1,411 ",Templado
+Cundinamarca,Bituima,25095," 1,412 ",Templado
+Antioquia,Bello,5088," 1,414 ",Templado
+Cundinamarca,Yacopí,25885," 1,416 ",Templado
+Cundinamarca,Arbeláez,25053," 1,417 ",Templado
+Santander,Curití,68229," 1,419 ",Templado
+Santander,Oiba,68500," 1,420 ",Templado
+Antioquia,Girardota,5308," 1,425 ",Templado
+Huila,Elías,41244," 1,425 ",Templado
+Quindio,Quimbaya,63594," 1,425 ",Templado
+Valle del Cauca,El Dovio,76250," 1,434 ",Templado
+Antioquia,Heliconia,5347," 1,440 ",Templado
+Tolima,Dolores,73236," 1,445 ",Templado
+Risaralda,Dos Quebradas,66170," 1,448 ",Templado
+Tolima,San Antonio,73675," 1,448 ",Templado
+Antioquia,Yolombó,5890," 1,450 ",Templado
+Norte de Santander,La Playa,54398," 1,450 ",Templado
+Quindio,Buenavista,63111," 1,450 ",Templado
+Santander,Coromoro,68217," 1,450 ",Templado
+Tolima,Planadas,73555," 1,450 ",Templado
+Antioquia,Copacabana,5212," 1,454 ",Templado
+Caldas,Samaná,17662," 1,460 ",Templado
+Cundinamarca,La Palma,25394," 1,462 ",Templado
+Cundinamarca,Silvania,25743," 1,470 ",Templado
+Huila,Nátaga,41483," 1,480 ",Templado
+Valle del Cauca,Calima (Darién),76126," 1,485 ",Templado
+Cundinamarca,Quetame,25594," 1,496 ",Templado
+Cundinamarca,Viani,25867," 1,498 ",Templado
+Antioquia,Uramita,5842," 1,500 ",Templado
+Boyacá,Páez,15514," 1,500 ",Templado
+Boyacá,Pisva,15550," 1,500 ",Templado
+Nariño,Linares,52411," 1,500 ",Templado
+Nariño,Magüi (Payán),52427," 1,500 ",Templado
+Nariño,Samaniego,52678," 1,500 ",Templado
+Nariño,Taminango,52786," 1,500 ",Templado
+Quindio,Génova,63302," 1,500 ",Templado
+Casanare,La Salina,85136," 1,500 ",Templado
+Cundinamarca,San Antonio de Tequendama,25645," 1,503 ",Templado
+Antioquia,San Francisco,5652," 1,508 ",Templado
+Cundinamarca,Vergara,25862," 1,510 ",Templado
+Risaralda,Belén de Umbría,66088," 1,510 ",Templado
+Risaralda,Mistrató,66456," 1,518 ",Templado
+Cauca,Cajibío,19130," 1,520 ",Templado
+Cundinamarca,San Francisco,25658," 1,520 ",Templado
+Boyacá,Miraflores,15455," 1,523 ",Templado
+Santander,Confines,68209," 1,523 ",Templado
+Boyacá,Berbeo,15090," 1,525 ",Templado
+Boyacá,San José de Pare,15664," 1,525 ",Templado
+Antioquia,Anorí,5040," 1,535 ",Templado
+Santander,Guepsa,68327," 1,540 ",Templado
+Antioquia,Amalfi,5031," 1,550 ",Templado
+Antioquia,Betania,5091," 1,550 ",Templado
+Antioquia,Sabaneta,5631," 1,550 ",Templado
+Antioquia,Titiribí,5809," 1,550 ",Templado
+Meta,San Juanito,50686," 1,550 ",Templado
+Norte de Santander,Ragonvalia,54599," 1,550 ",Templado
+Risaralda,Balboa,66075," 1,550 ",Templado
+Santander,Matanza,68444," 1,550 ",Templado
+Caquetá,Florencia,18001," 1,558 ",Templado
+Risaralda,Pueblo Rico,66572," 1,560 ",Templado
+Risaralda,Santuario,66687," 1,560 ",Templado
+Valle del Cauca,Argelia,76054," 1,560 ",Templado
+Tolima,Líbano,73411," 1,565 ",Templado
+Norte de Santander,Labateca,54377," 1,566 ",Templado
+Norte de Santander,La Esperanza,54385," 1,566 ",Templado
+Quindio,Calarcá,63130," 1,573 ",Templado
+Antioquia,Ituango,5361," 1,575 ",Templado
+Cundinamarca,Villagómez,25871," 1,575 ",Templado
+Risaralda,Marsella,66440," 1,575 ",Templado
+Nariño,Sotomayor (Los Andes),52418," 1,588 ",Templado
+Santander,Barbosa,68077," 1,588 ",Templado
+Boyacá,Santana,15686," 1,591 ",Templado
+Cauca,Páez (Belalcazar),19517," 1,591 ",Templado
+Valle del Cauca,La Cumbre,76377," 1,591 ",Templado
+Boyacá,Tenza,15798," 1,600 ",Templado
+Caldas,Marquetalia,17444," 1,600 ",Templado
+Cundinamarca,Cachipay,25123," 1,600 ",Templado
+Cundinamarca,San Bernardo,25649," 1,600 ",Templado
+Nariño,Cumbitara,52233," 1,600 ",Templado
+Nariño,El Rosario,52256," 1,600 ",Templado
+Norte de Santander,Villa Caro,54871," 1,600 ",Templado
+Santander,Contratación,68211," 1,600 ",Templado
+Santander,Suaita,68770," 1,610 ",Templado
+Valle del Cauca,Sevilla,76736," 1,612 ",Templado
+Antioquia,Betulia,5093," 1,615 ",Templado
+Santander,San Andrés,68669," 1,617 ",Templado
+Caldas,Filadelfia,17272," 1,620 ",Templado
+Quindio,Armenia,63001," 1,621 ",Templado
+Santander,Puente Nacional,68572," 1,625 ",Templado
+Antioquia,Itagüí,5360," 1,627 ",Templado
+Caldas,Palestina,17524," 1,630 ",Templado
+Cauca,Balboa,19075," 1,630 ",Templado
+Cundinamarca,Guayabal de Siquima,25328," 1,630 ",Templado
+Caldas,Belalcázar,17088," 1,632 ",Templado
+Antioquia,Toledo,5819," 1,634 ",Templado
+Cauca,Morales,19473," 1,635 ",Templado
+Antioquia,Angostura,5038," 1,637 ",Templado
+Nariño,Consaca,52207," 1,640 ",Templado
+Norte de Santander,Toledo,54820," 1,642 ",Templado
+Antioquia,Burítica,5113," 1,643 ",Templado
+Cundinamarca,Tibacuy,25805," 1,647 ",Templado
+Antioquia,Alejandria,5021," 1,650 ",Templado
+Boyacá,Chitaraque,15185," 1,650 ",Templado
+Boyacá,Toguí,15816," 1,650 ",Templado
+Nariño,El Tablón de Gómez,52258," 1,650 ",Templado
+Norte de Santander,San Calixto,54670," 1,650 ",Templado
+Nariño,Nariño,52480," 1,656 ",Templado
+Cundinamarca,Anolaima,25040," 1,657 ",Templado
+Boyacá,Zetaquirá,15897," 1,661 ",Templado
+Boyacá,Moniquirá,15469," 1,669 ",Templado
+Boyacá,Garagoa,15299," 1,675 ",Templado
+Boyacá,Somondoco,15761," 1,680 ",Templado
+Cauca,Piendamó,19548," 1,685 ",Templado
+Huila,San Agustín,41668," 1,695 ",Templado
+Cauca,Santa Rosa,19701," 1,697 ",Templado
+Antioquia,Campamento,5134," 1,700 ",Templado
+Boyacá,Guayatá,15325," 1,700 ",Templado
+Cauca,Florencia,19290," 1,700 ",Templado
+Quindio,Cordobá,63212," 1,700 ",Templado
+Quindio,Pijao,63548," 1,700 ",Templado
+Santander,Mogotes,68464," 1,700 ",Templado
+Caldas,San José,17665," 1,710 ",Templado
+Cundinamarca,Gachalá,25293," 1,712 ",Templado
+Cauca,Rosas,19622," 1,714 ",Templado
+Risaralda,Santa Rosa de Cabal,66682," 1,715 ",Templado
+Norte de Santander,Pamplonita,54520," 1,725 ",Templado
+Antioquia,Envigado,5266," 1,726 ",Templado
+Nariño,La Unión,52399," 1,727 ",Templado
+Cauca,Bolívar,19100," 1,730 ",Templado
+Cauca,Toribío,19821," 1,737 ",Templado
+Santander,Zapatoca,68895," 1,737 ",Templado
+Santander,Sucre,68773," 1,740 ",Templado
+Antioquia,San Roque,5670," 1,741 ",Templado
+Caldas,Risaralda,17616," 1,743 ",Templado
+Cundinamarca,Gachetá,25297," 1,745 ",Templado
+Cundinamarca,Cáqueza,25151," 1,746 ",Templado
+Antioquia,Argelia,5055," 1,750 ",Templado
+Antioquia,Caldas,5129," 1,750 ",Templado
+Cauca,Popayán,19001," 1,750 ",Templado
+Cauca,El Tambo,19256," 1,750 ",Templado
+Nariño,Colón (Génova),52203," 1,750 ",Templado
+Nariño,San Pablo,52693," 1,750 ",Templado
+Nariño,San Pedro de Cartago,52694," 1,750 ",Templado
+Santander,El Guacamayo,68245," 1,750 ",Templado
+Santander,Suratá,68780," 1,750 ",Templado
+Cauca,Inzá,19355," 1,754 ",Templado
+Boyacá,Chinavita,15172," 1,757 ",Templado
+Quindio,Circasia,63190," 1,772 ",Templado
+Antioquia,La Estrella,5380," 1,775 ",Templado
+Caldas,Salamina,17653," 1,775 ",Templado
+Caldas,Río Sucio,17614," 1,783 ",Templado
+Caldas,Anserma,17042," 1,790 ",Templado
+Cundinamarca,Supatá,25777," 1,798 ",Templado
+Cundinamarca,Pacho,25513," 1,799 ",Templado
+Antioquia,Fredonia,5282," 1,800 ",Templado
+Antioquia,Pueblorrico,5576," 1,800 ",Templado
+Antioquia,Urrao,5847," 1,800 ",Templado
+Santander,La Belleza,68377," 1,800 ",Templado
+Valle del Cauca,El Águila,76243," 1,800 ",Templado
+Santander,Aguada,68013," 1,802 ",Templado
+Antioquia,Jardín,5364," 1,805 ",Templado
+Santander,Aratoca,68051," 1,805 ",Templado
+Antioquia,Santa Bárbara,5679," 1,806 ",Templado
+Antioquia,Carolina,5150," 1,807 ",Templado
+Antioquia,Armenia,5059," 1,808 ",Templado
+Nariño,Mallama (Piedrancha),52435," 1,809 ",Templado
+Boyacá,Guateque,15322," 1,810 ",Templado
+Tolima,Cajamarca,73124," 1,814 ",Templado
+Nariño,Sandoná,52683," 1,817 ",Templado
+Caldas,La Merced,17388," 1,819 ",Templado
+Caldas,Pácora,17513," 1,819 ",Templado
+Antioquia,Caicedo,5125," 1,820 ",Templado
+Santander,Betulia,68092," 1,820 ",Templado
+Risaralda,Quinchía,66594," 1,825 ",Templado
+Antioquia,Gómez Plata,5310," 1,828 ",Templado
+Cauca,La Sierra,19392," 1,833 ",Templado
+Antioquia,Guadalupe,5315," 1,850 ",Templado
+Antioquia,Guatapé,5321," 1,850 ",Templado
+Boyacá,Chívor,15236," 1,850 ",Templado
+Boyacá,Macanal,15425," 1,850 ",Templado
+Boyacá,Tipacoque,15810," 1,850 ",Templado
+Santander,Tona,68820," 1,850 ",Templado
+Valle del Cauca,El Cairo,76246," 1,850 ",Templado
+Cauca,Timbío,19807," 1,852 ",Templado
+Caldas,Manzanares,17433," 1,853 ",Templado
+Valle del Cauca,Versalles,76863," 1,860 ",Templado
+Antioquia,Concepción,5206," 1,862 ",Templado
+Cundinamarca,Ubaque,25841," 1,867 ",Templado
+Cundinamarca,Granada,25312," 1,890 ",Templado
+Cundinamarca,Venecia (Ospina Pérez),25506," 1,890 ",Templado
+Cundinamarca,Fómeque,25279," 1,895 ",Templado
+Quindio,Salento,63690," 1,895 ",Templado
+Antioquia,Nariño,5483," 1,900 ",Templado
+Antioquia,Peñol,5541," 1,900 ",Templado
+Santander,Enciso,68266," 1,900 ",Templado
+Santander,Santa Bárbara,68705," 1,900 ",Templado
+Antioquia,Angelópolis,5036," 1,917 ",Templado
+Antioquia,Abriaquí,5004," 1,920 ",Templado
+Caldas,Villamaría,17873," 1,920 ",Templado
+Cauca,Caldono,19137," 1,920 ",Templado
+Santander,San Miguel,68684," 1,920 ",Templado
+Quindio,Filandia,63272," 1,923 ",Templado
+Cundinamarca,Manta,25436," 1,924 ",Templado
+Boyacá,Almeida,15022," 1,925 ",Templado
+Santander,Albania,68020," 1,925 ",Templado
+Cundinamarca,Choachí,25181," 1,927 ",Templado
+Cundinamarca,Fusagasugá,25290," 1,930 ",Templado
+Huila,La Argentina,41378," 1,930 ",Templado
+Antioquia,Giraldo,5306," 1,932 ",Templado
+Santander,La Paz,68397," 1,934 ",Templado
+Nariño,Albán (San José),52019," 1,935 ",Templado
+Santander,Gámbita,68298," 1,940 ",Templado
+Cundinamarca,Ubalá,25839," 1,949 ",Templado
+Antioquia,Santo Domingo,5690," 1,950 ",Templado
+Boyacá,San Eduardo,15660," 1,950 ",Templado
+Boyacá,Sutatenza,15778," 1,950 ",Templado
+Nariño,Buesaco,52110," 1,950 ",Templado
+Nariño,Chachaguí,52240," 1,950 ",Templado
+Santander,Chipatá,68179," 1,950 ",Templado
+Santander,Onzaga,68502," 1,950 ",Templado
+Santander,San Joaquín,68682," 1,950 ",Templado
+Norte de Santander,Herrán,54347," 1,955 ",Templado
+Santander,Charta,68169," 1,955 ",Templado
+Boyacá,Soatá,15753," 1,960 ",Templado
+Caldas,Aranzazu,17050," 1,960 ",Templado
+Antioquia,Jericó,5368," 1,967 ",Templado
+Caldas,Neira,17486," 1,969 ",Templado
+Boyacá,La Capilla,15380," 1,975 ",Templado
+Cundinamarca,Tibirita,25807," 1,980 ",Templado
+Santander,San José de Miranda,68686," 1,980 ",Templado
+Antioquia,Concordia,5209," 2,000 ",Frío
+Boyacá,Pachavita,15511," 2,000 ",Cálido húmedo
+Huila,Isnos,41359," 2,000 ",Frío
+Huila,Santa María,41676," 2,000 ",Cálido seco
+Nariño,Leiva,52405," 2,000 ",Frío
+Santander,Guavatá,68324," 2,000 ",Templado
+Putumayo,Colón,86219," 2,000 ",Cálido húmedo
+Santander,Concepción,68207," 2,005 ",Frío
+Norte de Santander,Cáchira,54128," 2,025 ",Frío
+Antioquia,Granada,5313," 2,050 ",Frío
+Caldas,Pensilvania,17541," 2,050 ",Frío
+Santander,California,68132," 2,050 ",Frío
+Boyacá,Jenesano,15367," 2,075 ",Frío
+Boyacá,Rondón,15621," 2,075 ",Frío
+Santander,Carcasí,68152," 2,080 ",Frío
+Tolima,Casabianca,73152," 2,081 ",Frío
+Boyacá,Tibaná,15804," 2,085 ",Frío
+Boyacá,Sutamarchán,15776," 2,093 ",Frío
+Cundinamarca,Machetá,25426," 2,094 ",Frío
+Antioquia,Marinilla,5440," 2,100 ",Frío
+Antioquia,Santuario,5697," 2,100 ",Frío
+Nariño,San Bernardo,52685," 2,100 ",Frío
+Putumayo,San Francisco,86755," 2,100 ",Frío
+Antioquia,Ríonegro,5615," 2,109 ",Frío
+Boyacá,Tinjacá,15808," 2,113 ",Frío
+Antioquia,Caramanta,5145," 2,115 ",Frío
+Antioquia,Abejorral,5002," 2,125 ",Frío
+Boyacá,El Espino,15248," 2,128 ",Frío
+Santander,Bolívar,68101," 2,130 ",Frío
+Cauca,La Vega,19397," 2,136 ",Frío
+Santander,Vélez,68861," 2,140 ",Frío
+Boyacá,Villa de Leiva,15407," 2,146 ",Frío
+Caldas,Manizales,17001," 2,146 ",Frío
+Antioquia,Carmen de Viboral,5148," 2,150 ",Frío
+Antioquia,Guarne,5318," 2,150 ",Frío
+Boyacá,Ráquira,15600," 2,150 ",Frío
+Nariño,San Lorenzo,52687," 2,150 ",Frío
+Boyacá,Sáchica,15638," 2,152 ",Frío
+Antioquia,Don Matías,5237," 2,156 ",Frío
+Boyacá,Boavita,15097," 2,161 ",Frío
+Caldas,Aguadas,17013," 2,170 ",Frío
+Antioquia,Retiro,5607," 2,179 ",Frío
+Cundinamarca,Gama,25299," 2,180 ",Frío
+Cundinamarca,Pasca,25535," 2,180 ",Frío
+Nariño,La Florida,52381," 2,180 ",Frío
+Boyacá,Guacamayas,15317," 2,195 ",Frío
+Santander,Molagavita,68468," 2,196 ",Frío
+Antioquia,San Vicente,5674," 2,197 ",Frío
+Boyacá,Buenavista,15109," 2,197 ",Frío
+Antioquia,La Ceja,5376," 2,200 ",Frío
+Nariño,Arboleda (Berruecos),52051," 2,200 ",Frío
+Tolima,Villahermosa,73870," 2,200 ",Frío
+Cundinamarca,San Cayetano,25653," 2,208 ",Frío
+Boyacá,Paz de Río,15537," 2,213 ",Frío
+Boyacá,San Mateo,15673," 2,221 ",Frío
+Cundinamarca,Albán,25019," 2,245 ",Frío
+Boyacá,Panqueba,15522," 2,250 ",Frío
+Nariño,El Tambo,52260," 2,250 ",Frío
+Tolima,Herveo,73347," 2,250 ",Frío
+Tolima,Santa Isabel,73686," 2,250 ",Frío
+Cauca,Jambaló,19364," 2,282 ",Frío
+Norte de Santander,Pamplona,54518," 2,297 ",Frío
+Antioquia,Entrerríos,5264," 2,300 ",Frío
+Antioquia,Yarumal,5887," 2,300 ",Frío
+Cundinamarca,Junín,25372," 2,300 ",Frío
+Nariño,Funes,52287," 2,300 ",Frío
+Nariño,La Llanada,52385," 2,300 ",Frío
+Nariño,Providencia,52565," 2,300 ",Frío
+Santander,Encino,68264," 2,300 ",Frío
+Boyacá,Ramiriquí,15599," 2,313 ",Frío
+Cauca,Almaguer,19022," 2,313 ",Frío
+Santander,Guaca,68318," 2,320 ",Frío
+Santander,Macaravita,68425," 2,320 ",Frío
+Antioquia,Montebello,5467," 2,350 ",Frío
+Cundinamarca,Gutiérrez,25339," 2,350 ",Frío
+Norte de Santander,Chitagá,54174," 2,350 ",Frío
+Boyacá,La Uvita,15403," 2,367 ",Frío
+Boyacá,Santa Sofía,15696," 2,370 ",Frío
+Cundinamarca,Une,25845," 2,376 ",Frío
+Boyacá,Corrales,15215," 2,388 ",Frío
+Boyacá,Chiscas,15180," 2,400 ",Frío
+Boyacá,Socotá,15755," 2,400 ",Frío
+Cundinamarca,Chipaque,25178," 2,400 ",Frío
+Nariño,Tangua,52788," 2,400 ",Frío
+Norte de Santander,Cácota,54125," 2,400 ",Frío
+Santander,Jesús María,68368," 2,400 ",Frío
+Boyacá,Boyacá,15104," 2,411 ",Frío
+Antioquia,La Unión,5400," 2,443 ",Frío
+Antioquia,San Pedro,5664," 2,450 ",Frío
+Boyacá,Gachantivá,15293," 2,450 ",Frío
+Boyacá,Nuevo Colón,15494," 2,450 ",Frío
+Boyacá,Turmequé,15835," 2,450 ",Frío
+Cauca,Sotara (Paispamba),19760," 2,450 ",Frío
+Nariño,Belén,52083," 2,450 ",Frío
+Antioquia,Sonsón,5756," 2,475 ",Frío
+Boyacá,Susacón,15774," 2,484 ",Frío
+Santander,El Peñon,68250," 2,488 ",Frío
+Boyacá,Duitama,15238," 2,493 ",Frío
+Boyacá,Busbanza,15114," 2,500 ",Frío
+Boyacá,Firavitoba,15272," 2,500 ",Frío
+Boyacá,Floresta,15276," 2,500 ",Frío
+Boyacá,Izá,15362," 2,500 ",Frío
+Boyacá,Nobsa,15491," 2,500 ",Frío
+Boyacá,Tibasosa,15806," 2,500 ",Frío
+Boyacá,Úmbita,15842," 2,500 ",Frío
+Boyacá,Viracachá,15879," 2,500 ",Frío
+Nariño,Contadero,52210," 2,500 ",Frío
+Nariño,Imúes,52354," 2,500 ",Frío
+Nariño,La Cruz,52378," 2,500 ",Frío
+Santander,Cerrito,68162," 2,500 ",Frío
+Boyacá,Paipa,15516," 2,513 ",Frío
+Cundinamarca,Mosquera,25473," 2,516 ",Frío
+Antioquia,Belmira,5086," 2,520 ",Frío
+Cauca,Silvia,19743," 2,521 ",Frío
+Boyacá,Oicatá,15500," 2,525 ",Frío
+Boyacá,Tasco,15790," 2,525 ",Frío
+Boyacá,San Miguel de Sema,15676," 2,543 ",Frío
+Nariño,San Juan de Pasto,52001," 2,543 ",Frío
+Cundinamarca,Funza,25286," 2,548 ",Frío
+Antioquia,Santa Rosa de Osos,5686," 2,550 ",Frío
+Cundinamarca,Sutatausa,25781," 2,550 ",Frío
+Cundinamarca,Madrid,25430," 2,554 ",Frío
+Cundinamarca,Soacha,25754," 2,554 ",Frío
+Boyacá,Chiquinquirá,15176," 2,556 ",Frío
+Cundinamarca,Ubaté,25843," 2,556 ",Frío
+Cundinamarca,Cajicá,25126," 2,558 ",Frío
+Cundinamarca,Simijaca,25745," 2,559 ",Frío
+Boyacá,Caldas,15131," 2,560 ",Frío
+Cundinamarca,Cabrera,25120," 2,560 ",Frío
+Cundinamarca,Chía,25175," 2,562 ",Frío
+Cundinamarca,Cota,25214," 2,566 ",Frío
+Cundinamarca,Gachancipá,25295," 2,568 ",Frío
+Cundinamarca,Tabio,25785," 2,569 ",Frío
+Boyacá,Beteitiva,15092," 2,570 ",Frío
+Cauca,Totoró,19824," 2,570 ",Frío
+Boyacá,Sogamoso,15759," 2,579 ",Frío
+Antioquia,San José de Montaña,5658," 2,580 ",Frío
+Cundinamarca,Sopó,25758," 2,580 ",Frío
+Cundinamarca,Suesca,25772," 2,584 ",Frío
+Cundinamarca,Nemocón,25486," 2,585 ",Frío
+Cundinamarca,El Rosal,25260," 2,586 ",Frío
+Cundinamarca,Facatativá,25269," 2,586 ",Frío
+Cundinamarca,Tenjo,25799," 2,587 ",Frío
+Cundinamarca,Lenguazaque,25407," 2,589 ",Frío
+Cundinamarca,Cucunubá,25224," 2,590 ",Frío
+Cundinamarca,Sesquilé,25736," 2,595 ",Frío
+Cundinamarca,Bojacá,25099," 2,598 ",Frío
+Cundinamarca,Zipacón,25898," 2,598 ",Frío
+Boyacá,Chíquiza,15232," 2,600 ",Frío
+Boyacá,Pesca,15542," 2,600 ",Frío
+Boyacá,Sativanorte,15720," 2,600 ",Frío
+Boyacá,Sativasur,15723," 2,600 ",Frío
+Boyacá,Tuta,15837," 2,600 ",Frío
+Cundinamarca,Sibaté,25740," 2,600 ",Frío
+Norte de Santander,Mutiscua,54480," 2,600 ",Frío
+Putumayo,Sibundoy,86749," 2,600 ",Frío
+Boyacá,Samacá,15646," 2,604 ",Frío
+Cundinamarca,Tocancipá,25817," 2,606 ",Frío
+Cundinamarca,Zipaquirá,25899," 2,608 ",Frío
+Boyacá,Saboyá,15632," 2,625 ",Frío
+Cundinamarca,Cogua,25200," 2,631 ",Frío
+Boyacá,Cucaita,15224," 2,634 ",Frío
+Cundinamarca,Bogotá D.C.,11001," 2,640 ",Frío
+Tolima,Roncesvalles,73622," 2,640 ",Frío
+Boyacá,Ventaquemada,15861," 2,642 ",Frío
+Boyacá,Sotaquirá,15763," 2,650 ",Frío
+Nariño,Guaitarilla,52320," 2,650 ",Frío
+Putumayo,Santiago,86760," 2,650 ",Frío
+Cundinamarca,Chocontá,25183," 2,655 ",Frío
+Cundinamarca,Susa,25779," 2,655 ",Frío
+Cundinamarca,Subachoque,25769," 2,663 ",Frío
+Boyacá,Socha,15757," 2,667 ",Frío
+Cundinamarca,Guatavita,25326," 2,668 ",Frío
+Boyacá,Covarachía,15218," 2,700 ",Frío
+Boyacá,El Cocuy,15244," 2,700 ",Frío
+Boyacá,Siachoque,15740," 2,700 ",Frío
+Boyacá,Sora,15762," 2,700 ",Frío
+Boyacá,Toca,15814," 2,700 ",Frío
+Nariño,Yacuanquer,52885," 2,700 ",Frío
+Norte de Santander,Silos,54743," 2,700 ",Frío
+Cundinamarca,Guasca,25322," 2,710 ",Frío
+Cundinamarca,Fosca,25281," 2,713 ",Frío
+Cundinamarca,Villapinzón,25873," 2,715 ",Frío
+Cundinamarca,La Calera,25377," 2,718 ",Frío
+Boyacá,Arcabuco,15051," 2,739 ",Frío
+Boyacá,Santa Rosa de Viterbo,15693," 2,748 ",Frío
+Boyacá,Cuitiva,15226," 2,750 ",Frío
+Boyacá,Gámeza,15296," 2,750 ",Frío
+Cundinamarca,Fúquene,25288," 2,750 ",Frío
+Cundinamarca,Guachetá,25317," 2,750 ",Frío
+Nariño,Potosí,52560," 2,750 ",Frío
+Boyacá,Soracá,15764," 2,799 ",Frío
+Boyacá,Tutasá,15839," 2,800 ",Frío
+Cauca,San Sebastián,19693," 2,800 ",Frío
+Nariño,Puerres,52573," 2,800 ",Frío
+Boyacá,Tunja,15001," 2,804 ",Frío
+Caldas,Marulanda,17446," 2,820 ",Frío
+Boyacá,Cómbita,15204," 2,825 ",Frío
+Cauca,Puracé (Coconuco),19585," 2,850 ",Frío
+Nariño,Ospina,52506," 2,850 ",Frío
+Nariño,Córdoba,52215," 2,867 ",Frío
+Boyacá,Tota,15822," 2,875 ",Frío
+Boyacá,Guicán,15332," 2,880 ",Frío
+Nariño,Ipiales,52356," 2,892 ",Frío
+Boyacá,Chivatá,15187," 2,900 ",Frío
+Boyacá,Monguí,15466," 2,900 ",Frío
+Boyacá,Topagá,15820," 2,900 ",Frío
+Nariño,Gualmatán,52323," 2,900 ",Frío
+Nariño,Sapuyes,52720," 2,900 ",Frío
+Boyacá,Motavita,15476," 2,908 ",Frío
+Cundinamarca,Tausa,25793," 2,931 ",Frío
+Boyacá,Chita,15183," 2,949 ",Frío
+Nariño,Iles,52352," 2,950 ",Frío
+Cundinamarca,Carmen de Carupa,25154," 2,980 ",Frío
+Boyacá,Mongua,15464," 3,000 ",Frío
+Nariño,Pupiales,52585," 3,014 ",Frío
+Boyacá,Aquitania,15047," 3,042 ",Frío
+Nariño,Aldana,52022," 3,050 ",Frío
+Nariño,Cuaspud (Carlosama),52224," 3,050 ",Frío
+Nariño,Guachucal,52317," 3,087 ",Frío
+Boyacá,Jericó,15368," 3,100 ",Frío
+Nariño,Cumbal,52227," 3,100 ",Frío
+Nariño,Túquerres,52838," 3,104 ",Frío
+Boyacá,Belén,15087," 3,144 ",Frío
+Boyacá,Cerinza,15162," 3,269 ",Frío
+Santander,Vetas,68867," 3,300 ",Frío
